@@ -10,7 +10,6 @@ export default function Dictionary() {
   let [photos, setPhotos] = useState(null);
 
   function handleResponse(response) {
-    console.log(response.data[0]);
     setResults(response.data[0]);
   }
 
