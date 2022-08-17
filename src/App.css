@@ -1,17 +1,16 @@
-.App {
-  text-align: center;
-}
-
 .App-header {
   margin: 30px 0;
+  text-align: center;
 }
 
 .App-footer {
   margin: 30px 0;
+  text-align: center;
 }
 
 .App-logo {
   max-width: 100px;
   margin: 0 auto;
   display: block;
+  text-align: center;
 }
